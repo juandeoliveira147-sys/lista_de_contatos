@@ -1,4 +1,4 @@
-# 📒 Agenda de Contatos
+#  Agenda de Contatos
 
 Uma agenda de contatos feita em Python durante meus estudos. O objetivo deste projeto foi praticar funções, dicionários, laços de repetição, validação de dados e expressões regulares (`re`).
 
@@ -23,4 +23,5 @@ Durante este projeto pratiquei:
 - Estruturas condicionais;
 - Tratamento de casos inválidos para evitar erros durante a execução.
 
+### Objetivo
 Projeto desenvolvido como parte da minha jornada de estudos em Python. Cada projeto representa minha evolução e continuará sendo aprimorado conforme eu aprender novos conceitos.
